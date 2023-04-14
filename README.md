@@ -8,9 +8,11 @@ Connection:
     username
     password
 
+
 Tables:
     1. Books
     2. Customers
+
 
 Menu:
     1. Add book
@@ -20,12 +22,14 @@ Menu:
     5. selling purchasing
     6. sql conncections
 
+
 Book: 
     book_id : int,primary key
     book_name : varchar(50)
     book_price : float
     genre : varchar
     qty : int check qty>=0
+
 
 Customers:
     order_id : int,primary key
