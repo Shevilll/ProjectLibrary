@@ -1,5 +1,7 @@
 # ProjectLibrary
-Library Management System
+## Library Management System
+
+**Do install necessary packages using pip**
 
 A Python based library management system, made for school project
 
